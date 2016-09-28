@@ -18,7 +18,7 @@ gulp.task('watches', ['browserSync'], function () {
     gulp.watch('source/js/**/*.js', ['jshint']);
     gulp.watch('source/scss/**/*.scss', ['sass', browserSync.reload ]);
     
-    gulp.watch('index.html', browserSync.reload); 
+    gulp.watch('*.html', browserSync.reload); 
 
 });
 

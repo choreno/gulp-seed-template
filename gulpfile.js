@@ -44,17 +44,16 @@ requireDir('./gulp', { recurse: true });
 // })
 
 
-//watches 
-//gulp.task('default', ['watches'], function(callback){
-
-//} );
-
-
 //sass
-gulp.task('default',['sass'], function (callback) {
-
+// gulp.task('default',['sass'], function (callback) {
     
-})
+// })
+
+
+//watches 
+gulp.task('default', ['watches'], function(callback){
+
+} );
 
 
 
