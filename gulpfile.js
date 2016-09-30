@@ -1,10 +1,11 @@
-
-
-//npm installs 
+//Required packages  
 //npm i -D gulp browser-sync run-sequence del   
 //npm i -D gulp-babel babel-preset-es2015 babel-loader webpack-stream
 //npm i -D jshint gulp-jshint jshint-stylish
 //npm i -D gulp-sourcemaps gulp-useref
+//npm i -D gulp-typescript gulp-shell
+//npm i -D browserify tsify vinyl-source-stream
+
 
 
 var gulp = require('gulp');
