@@ -5,7 +5,7 @@
 //npm i -D gulp-sourcemaps gulp-useref
 //npm i -D gulp-typescript gulp-shell
 //npm i -D browserify tsify vinyl-source-stream
-
+//npm i -D gulp-exec child_process
 
 
 var gulp = require('gulp');
