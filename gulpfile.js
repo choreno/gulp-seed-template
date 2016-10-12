@@ -9,8 +9,8 @@
 
 //######## Karma
 
-// npm i -D karma karma-jasmine jasmine-core karma-chrome-launcher
-// npm install -g karma-cli
+// npm i -D karma karma-jasmine jasmine-core karma-chrome-launcher angular-mocks
+// npm install -g karma-cli 
 
 
 
