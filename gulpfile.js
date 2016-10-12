@@ -1,11 +1,18 @@
 //Required packages  
-//npm i -D gulp browser-sync run-sequence del   
-//npm i -D gulp-babel babel-preset-es2015 babel-loader webpack-stream
-//npm i -D jshint gulp-jshint jshint-stylish
-//npm i -D gulp-sourcemaps gulp-useref
-//npm i -D gulp-typescript gulp-shell
-//npm i -D browserify tsify vinyl-source-stream
-//npm i -D gulp-exec child_process
+// npm i -D gulp browser-sync run-sequence del   
+// npm i -D gulp-babel babel-preset-es2015 babel-loader webpack-stream
+// npm i -D jshint gulp-jshint jshint-stylish
+// npm i -D gulp-sourcemaps gulp-useref
+// npm i -D gulp-typescript gulp-shell
+// npm i -D browserify tsify vinyl-source-stream
+// npm i -D gulp-exec child_process
+
+//######## Karma
+
+// npm i -D karma karma-jasmine jasmine-core karma-chrome-launcher
+// npm install -g karma-cli
+
+
 
 
 var gulp = require('gulp');
